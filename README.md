@@ -1,1 +1,1 @@
-# Euler
+Project Euler.net challenges
