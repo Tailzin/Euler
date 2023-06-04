@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.2)
+project(Euler)
+
+add_executable("Challenge_1" "../src/Challenge 1.cpp")
+add_executable("Challenge_2" "../src/Challenge 2.cpp")
+add_executable("Challenge_3" "../src/Challenge 3.cpp")
+add_executable("Challenge_4" "../src/Challenge 4.cpp")
+add_executable("Challenge_5" "../src/Challenge 5.cpp")
+add_executable("Challenge_6" "../src/Challenge 6.cpp")
+add_executable("Challenge_7" "../src/Challenge 7.cpp")
+add_executable("Challenge_8" "../src/Challenge 8.cpp")
+add_executable("Challenge_9" "../src/Challenge 9.cpp")
