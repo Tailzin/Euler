@@ -1,9 +1,3 @@
 Project Euler.net challenges
 
-to compile executables: 
-
--while inside build run:
-
-  ->cmake .
-
-  ->cmake --build
+to compile executables just run build/build.bat
